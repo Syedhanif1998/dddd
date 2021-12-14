@@ -1,0 +1,15 @@
+C:\Users\7600\Desktop\dddddd\dddddd\bin\Debug\dddddd.exe.config
+C:\Users\7600\Desktop\dddddd\dddddd\bin\Debug\dddddd.exe
+C:\Users\7600\Desktop\dddddd\dddddd\bin\Debug\dddddd.pdb
+C:\Users\7600\Desktop\dddddd\dddddd\obj\Debug\dddddd.csprojResolveAssemblyReference.cache
+C:\Users\7600\Desktop\dddddd\dddddd\obj\Debug\dddddd.exe
+C:\Users\7600\Desktop\dddddd\dddddd\obj\Debug\dddddd.pdb
+F:\dddddd\dddddd\bin\Debug\dddddd.exe.config
+F:\dddddd\dddddd\obj\Debug\dddddd.exe
+F:\dddddd\dddddd\obj\Debug\dddddd.pdb
+F:\dddddd\dddddd\bin\Debug\dddddd.exe
+F:\dddddd\dddddd\bin\Debug\dddddd.pdb
+F:\dddddd\dddddd\obj\Debug\dddddd.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\dddddd\dddddd\bin\Debug\dddddd.exe.config
+C:\Users\DELL\Desktop\dddddd\dddddd\obj\Debug\dddddd.exe
+C:\Users\DELL\Desktop\dddddd\dddddd\obj\Debug\dddddd.pdb
